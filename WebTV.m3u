@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:-1,,Плейлист
+#EXTINF:-1,,== http://botchery.github.io/WebTV.m3u ==
+#EXTINF:-1,TV Brics RU
+http://live2.mediacdn.ru/sr1/tvbrics/chunklist.m3u8
+#EXTINF:-1,TV Brics EN
+https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV Brics CH
+https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
 #EXTINF:0,РБК-ТВ
 http://31acd4b3.ottv.biz/iptv/ZBEVGS7KEW4QZV/106/index.m3u
 #EXTINF:0,Пятый Канал
