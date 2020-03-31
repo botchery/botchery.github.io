@@ -17,3 +17,6 @@
 [**left-hand layout**](https://github.com/botchery/KGDNv3)
 
 ![Alt text](https://raw.githubusercontent.com/botchery/KGDNv3/master/img.png)
+
+# 0004
+[**Нейрохрупкость 0004 в частной коллекции yasuko-igogo**](https://yandex.ru/lab/ganart?pic=00013458)
